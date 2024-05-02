@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julián</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
-<img src="https://i.imgur.com/qsvuwK1.png">
+<img src="https://i.imgur.com/PyNu8TB.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianhm2&label=Profile%20views&color=0e75b6&style=flat" alt="julianhm2" /> </p>
 
