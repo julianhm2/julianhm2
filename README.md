@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **UniConnect**
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **JS and Cybersecurity**
 
 - 👯 I’m looking to collaborate on **SecurityPassword**
 
